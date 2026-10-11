@@ -7,10 +7,6 @@ By day, I'm a CPA and tax attorney who spent many years as a patent attorney bef
 
 I build tools that solve my problems or just interest me.  Mostly this means accounting and tax software that does what I need without 400 features I'll never use.  If you've ever got frustrated at constant UI changes from software updates (NOBODY likes New Outlook or New Acrobat) or wish you could buy (not subscribe) to a basic software that just does what you want, we could probably hang out.  I LOVE the Unix philosophy that software should do one thing and do it well.
 
-## Current Projects
-
-See pinned repositories
-
 ## Dev Setup
 
 Linux Mint is home.  I develop on Linux and macOS, and I only touch Windows when it is forced upon me.
