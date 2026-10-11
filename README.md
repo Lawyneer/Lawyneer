@@ -9,15 +9,7 @@ I build tools that solve my problems or just interest me.  Mostly this means acc
 
 ## Current Projects
 
-- **[General Ledger App](https://github.com/Lawyneer/general-ledger-app)**:  A self-hosted, double-entry accounting app with journal entries, trial   balance, income statement, and balance sheet that lives in a single SQLite file.  Vanilla JS frontend, no build step, no nonsense.  Just a simple GL tool born out of my refusal to pay a monthly subscription for bloated accounting software.
-
-- **[Tax Return Status Tracker](https://github.com/Lawyneer/return_tracker)**:  A lightweight web app for tracking tax returns from "not started" to completion, with full audit trail, overdue flags, and CSV export.  Because managing a busy season with sticky notes or in Excel is just wrong.
-
-## Fun Projects
-
-- **[Craps (Python)](https://github.com/Lawyneer/craps-python)**:  A text based craps game complete with dramatic pauses between rolls, because suspense matters even in the terminal.
-
-- **[Craps (Rust)](https://github.com/Lawyneer/craps-rust)**:  The same game, rewritten in Rust.  I figured porting something I already knew was a nice way to learn a new language.  Results: will get back to you . . .
+See pinned repositories
 
 ## Dev Setup
 
