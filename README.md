@@ -1,4 +1,5 @@
-# Introverted, but willing to discuss taxes, patent law, and of course, coding!
+# Introverted . . .
+## But willing to discuss taxes, patent law, and of course, coding!
 
 By day, I'm a CPA and tax attorney who spent many years as a patent attorney before that.  Yes, I collect professional licenses and diplomas they way some people collect Pokémon cards, which I do not collect.  Along the way I picked up a BS and MS in [Mechanical Engineer](https://me.gatech.edu) from [Georgia Tech](https://gatech.edu), taught myself to code (had little help from CS 1310 back in the day), and now I build software to fix the things that annoy me.
 
